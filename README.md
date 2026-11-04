@@ -5,7 +5,7 @@
 
 用于解决 **X-Rite Color Assistant 报「无法获取配置文件存档 URL」、无法恢复配色** 的问题。
 
-<img width="408" height="353" alt="image" src="https://github.com/user-attachments/assets/325ea8fa-337b-4192-ba3d-87f190623da5" />
+<img width="407" height="350" alt="image" src="https://github.com/user-attachments/assets/f8a40c3e-a101-4121-bd98-7446f17e5a69" />
 
 ---
 
